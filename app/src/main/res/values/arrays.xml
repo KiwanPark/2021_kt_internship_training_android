@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="license">
+        <item>AndroidWordCloud|MIT License|Copyright (c) 2016 Abdullah Alhazmy|https://github.com/alhazmy13/AndroidWordCloud</item>
+    </string-array>
+    <string-array name="press">
+        <item>sedaily@서울경제</item>
+        <item>yna@연합뉴스</item>
+        <item>mt@머니투데이</item>
+        <item>hankyung@한국경제</item>
+        <item>hankookilbo@한국일보</item>
+        <item>seoul@서울신문</item>
+        <item>news1@뉴스1</item>
+        <item>chosun@조선비즈</item>
+        <item>munhwa@문화일보</item>
+        <item>sbs@SBS비즈</item>
+
+        <item>heraldcorp@해럴드경제</item>
+        <item>donga@동아일보</item>
+        <item>fnnews@파이낸셜뉴스</item>
+        <item>hani@한겨례</item>
+        <item>wowtv@한국경제TV</item>
+        <item>dnews@대한경제</item>
+        <item>sisajournal-e@시사저널</item>
+        <item>newsis@뉴시스</item>
+        <item>inews24@아이뉴스</item>
+        <item>etnews@전자신문</item>
+
+        <item>edaily@이데일리</item>
+    </string-array>
+</resources>
